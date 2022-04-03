@@ -17,3 +17,9 @@ I am a beginner front end developer. My soft-skills: stress-resistant, communica
 Belarusian State Economic University,  2002-2007
 * Faculty of Accounting and Economics
   * accountan 
+## Work experience
+>> 2007-2009 JSC "MAZ" - accountant
+>> 2010-2017 freelance
+>> 2017 - now Pharmaceutical company "Santen"
+## Language
+English А2+ (Pre-intermediate level)
